@@ -1,0 +1,35 @@
+artifact_path: file:///C:/Users/aswin/Documents/Labmentix/7.%20Amazon%20Delivery%20Time%20Prediction/mlruns/677726427231573540/models/m-6caf747050b4466f8e64d276e2d902fe/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.12.6
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.7.1
+is_signature_from_type_hint: false
+mlflow_version: 3.4.0
+model_id: m-6caf747050b4466f8e64d276e2d902fe
+model_size_bytes: 282667
+model_uuid: m-6caf747050b4466f8e64d276e2d902fe
+prompts: null
+run_id: 6a76f049c6614c6fbf90e7bb0f1c7729
+saved_input_example_info:
+  artifact_path: input_example.json
+  serving_input_path: serving_input_example.json
+  type: json_object
+signature:
+  inputs: '[{"type": "long", "name": "Agent_Age", "required": true}, {"type": "double",
+    "name": "Agent_Rating", "required": true}, {"type": "double", "name": "distance_km",
+    "required": true}, {"type": "double", "name": "pickup_delay_min", "required":
+    true}, {"type": "long", "name": "order_hour", "required": true}]'
+  outputs: '[{"type": "float", "required": true}]'
+  params: null
+type_hint_from_example: false
+utc_time_created: '2025-10-03 09:33:53.201546'

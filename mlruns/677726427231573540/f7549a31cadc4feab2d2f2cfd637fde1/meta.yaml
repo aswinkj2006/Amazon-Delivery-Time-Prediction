@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/aswin/Documents/Labmentix/7.%20Amazon%20Delivery%20Time%20Prediction/mlruns/677726427231573540/f7549a31cadc4feab2d2f2cfd637fde1/artifacts
+end_time: 1759483980179
+entry_point_name: ''
+experiment_id: '677726427231573540'
+lifecycle_stage: active
+run_id: f7549a31cadc4feab2d2f2cfd637fde1
+run_name: XGBoost_Search
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759483969278
+status: 3
+tags: []
+user_id: aswin

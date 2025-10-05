@@ -1,0 +1,10 @@
+artifact_location: file:///C:/Users/aswin/Documents/Labmentix/7.%20Amazon%20Delivery%20Time%20Prediction/mlruns/677726427231573540/models/m-eda0f9ad8fc04e72ab7ec0fe67894912/artifacts
+creation_timestamp: 1759483954567
+experiment_id: '677726427231573540'
+last_updated_timestamp: 1759483969171
+model_id: m-eda0f9ad8fc04e72ab7ec0fe67894912
+model_type: null
+name: model
+source_run_id: 6c2971905e3646dab09e7fb068dc49c7
+status: 2
+status_message: null

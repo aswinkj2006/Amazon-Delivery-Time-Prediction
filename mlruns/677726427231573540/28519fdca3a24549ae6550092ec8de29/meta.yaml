@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Users/aswin/Documents/Labmentix/7.%20Amazon%20Delivery%20Time%20Prediction/mlruns/677726427231573540/28519fdca3a24549ae6550092ec8de29/artifacts
+end_time: 1759483911733
+entry_point_name: ''
+experiment_id: '677726427231573540'
+lifecycle_stage: active
+run_id: 28519fdca3a24549ae6550092ec8de29
+run_name: LinearRegression
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1759483892221
+status: 3
+tags: []
+user_id: aswin
